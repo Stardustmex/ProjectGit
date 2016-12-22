@@ -10,7 +10,7 @@
 </head>
 <body>
 
-    <?php echo "Hello world"; ?>
+    <h1>Hey man github pages dont php</h1>
 
 </body>
 </html>
