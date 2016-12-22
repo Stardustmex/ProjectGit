@@ -9,8 +9,6 @@
 
 </head>
 <body>
-
     <h1>Hey man github pages dont php</h1>
-
 </body>
 </html>
