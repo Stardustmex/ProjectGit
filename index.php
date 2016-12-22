@@ -10,7 +10,7 @@
 </head>
 <body>
 
-    <?php echo "Hello world"; ?>
+    <?php echo "Hello world V3"; ?>
 
 </body>
 </html>
